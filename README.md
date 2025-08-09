@@ -31,12 +31,6 @@ source .venv/bin/activate
 # 3) Install deps
 pip install -r requirements.txt
 
-# 4) (Optional) keep notebook outputs out of Git history
-pip install nbstripout
-nbstripout --install
-
-# 5) Start Jupyter
-jupyter lab   # or: jupyter notebook
 ```
 
 Open: `notebooks/walmart-sales-forecasting-w.r.t-time-series-analysis.ipynb`
