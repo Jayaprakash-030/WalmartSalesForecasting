@@ -7,13 +7,13 @@ Forecasting Walmart store-item sales using classical and modern time-series meth
 - Methods: ARIMA/SARIMA (statsmodels), Prophet, and ML baselines (scikit‑learn), depending on availability
 - Clean repo structure with data + figures ignored by Git
 - Auto‑generated `requirements.txt` from the notebook imports
-
+ 
 ## Dataset
-This notebook was built for Walmart-style daily/weekly sales time series (e.g., M5/Walmart).  
+This notebook was built for Walmart-style daily/weekly sales time series.
+
 > **Note:** Raw datasets are **not** committed. Place your CSVs under `data/` and adjust paths in the notebook if necessary.
 
-- Example sources you can use:
-  - Kaggle (Walmart/M5 datasets) — download locally and keep under `data/` (ignored by Git).
+- Source: [Kaggle — Walmart Dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset/data)
 
 ## Quickstart
 ```bash
