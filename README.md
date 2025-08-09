@@ -40,9 +40,8 @@ Open: `notebooks/walmart-sales-forecasting-w.r.t-time-series-analysis.ipynb`
 walmart-sales-forecasting-timeseries/
 ├─ notebooks/
 │  └─ walmart-sales-forecasting-w.r.t-time-series-analysis.ipynb
-├─ data/                  # put raw/processed data here (ignored)
-├─ reports/
-│  └─ figures/            # charts exported here (ignored)
+├─ data/
+│  └─ walmart_cleaned.csv.zip
 ├─ requirements.txt
 ├─ .gitignore
 ├─ .gitattributes         # nicer diffs for notebooks
