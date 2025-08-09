@@ -18,8 +18,8 @@ This notebook was built for Walmart-style daily/weekly sales time series.
 ## Quickstart
 ```bash
 # 1) Clone
-git clone https://github.com/<your-username>/walmart-sales-forecasting-timeseries.git
-cd walmart-sales-forecasting-timeseries
+git clone https://github.com/Jayaprakash-030/WalmartSalesForecasting.git
+cd WalmartSalesForecasting
 
 # 2) Python env
 python -m venv .venv
